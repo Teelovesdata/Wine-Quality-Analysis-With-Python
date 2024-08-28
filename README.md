@@ -59,5 +59,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The open-source community for their amazing tools and libraries.
 
 ---
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-This README provides a clear and concise overview of your project, guiding users on how to understand, replicate, and contribute to your work.
+Acknowledgments
+Kaggle for providing the dataset.
+The open-source community for their amazing tools and libraries.
+
