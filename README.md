@@ -13,7 +13,7 @@ The dataset contains various features related to the chemical properties of wine
 
 **Steps To Recreate Project**
 
-1. **Data Loading**
+1. **Loading Of The Dataset**
    - The dataset is loaded into a pandas DataFrame for manipulation and analysis.
 
 2. **Data Cleaning**
@@ -30,15 +30,18 @@ The dataset contains various features related to the chemical properties of wine
    - Hyperparameter tuning is performed using techniques like GridSearchCV to improve model performance.
 
  **Technologies Used**
+ 
 - **Python:** Programming language used for analysis and modeling.
 - **Pandas:** For data manipulation and analysis.
 - **Seaborn & Matplotlib:** For data visualization.
 - **Scikit-learn:** For building and evaluating machine learning models.
 
 **Results**
+
 The analysis provides insights into which physicochemical properties most strongly influence wine quality and demonstrates the effectiveness of different predictive models.
 
  **How to Use**
+ 
 1. Clone the repository:
   
    git clone https://github.com/yourusername/wine-quality-analysis.git
@@ -50,12 +53,14 @@ The analysis provides insights into which physicochemical properties most strong
 3. Run the Jupyter Notebook or Python scripts to explore the analysis and results.
 
  **Contributing**
+ 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions for improvements.
 
 **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Acknowledgments**
+
 - [Kaggle](https://www.kaggle.com/) for providing the dataset.
 - The open-source community for their amazing tools and libraries.
 
