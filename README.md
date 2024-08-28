@@ -38,13 +38,13 @@ The analysis provides insights into which physicochemical properties most strong
 
  **How to Use**
 1. Clone the repository:
-   ```bash
+  
    git clone https://github.com/yourusername/wine-quality-analysis.git
-   ```
+   
 2. Install required libraries:
-   ```bash
+   
    pip install -r requirements.txt
-   ```
+  
 3. Run the Jupyter Notebook or Python scripts to explore the analysis and results.
 
  **Contributing**
