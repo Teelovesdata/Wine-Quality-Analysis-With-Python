@@ -1,8 +1,10 @@
 
  **Overview**
+ 
 This project explores the Wine Quality dataset to understand the relationship between the physicochemical properties of wine and their quality ratings. The analysis includes data loading, cleaning, exploratory data analysis (EDA), and building machine learning models to predict wine quality.
 
 **Dataset**
+
 The dataset contains various features related to the chemical properties of wine, such as acidity, alcohol content, and pH, along with a quality rating on a scale from 0 to 10.
 
 - **Dataset Source:** [Wine Quality Dataset on Kaggle](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
