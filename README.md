@@ -1,8 +1,4 @@
-Here's a sample README for your GitHub project on Wine Quality Data Analysis:
 
----
-
-# **Wine Quality Data Analysis**
 
 ## **Overview**
 This project explores the Wine Quality dataset to understand the relationship between the physicochemical properties of wine and their quality ratings. The analysis includes data loading, cleaning, exploratory data analysis (EDA), and building machine learning models to predict wine quality.
